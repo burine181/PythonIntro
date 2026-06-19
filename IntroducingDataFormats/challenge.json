@@ -1,0 +1,39 @@
+{
+    "car": {
+        "make": "Ford",
+        "model": "Expedition",
+        "year": "2017",
+        "milage": "125000",
+        "condition": "Used",
+        "color": "Black",
+        "specifications": {
+            "engine": {
+                "type": "EcoBost",
+                "displacement": {"value": "3.5", "unit": "liters"},
+                "horsepower": "375",
+                "rpm": "5000"
+            },
+            "transmission":"Automatic",
+            "drivetrain":"4WD",
+            "fuelType": "Gasoline"        
+        },
+        "performance": {
+            "acceleration": {"value": "6.5", "unit": "Seconds"},
+            "topSpeed": {"value": "130", "unit": "mph"}
+        },
+        "dimensions": {
+            "length": {"value": "210", "units": "inches"},
+            "width": {"value": "79", "units": "inches"},
+            "height": {"value": "76", "units": "inches"},
+            "wheelbase": {"value": "119", "units": "inches"}
+        },
+        "features": [
+            "Leather seats",
+            "Navigation system",
+            "Bluetooth connectivity",
+            "Backup camera",
+            "Third-row seating"
+        ]
+        }
+    }
+}

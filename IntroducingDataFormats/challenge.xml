@@ -1,0 +1,37 @@
+<car>
+    <make>Ford</make>
+    <model>Expedition</model>
+    <year>2017</year>
+    <milage>125000</milage>
+    <condition>Used</condition>
+    <color>Black</color>
+    <specifications>
+        <engine>
+            <type>EcoBoost</type>
+            <displacement>3.5</displacement>
+            <horsepower>375</horsepower>
+            <rpm>5000</rpm>
+        </engine>
+        <transmission>Automatic</transmission>
+        <drivetrain>4WD</drivetrain>
+        <fuelType>Gasoline</fuelType>
+    </specifications>
+    <performace>
+        <acceleration units="seconds">6.5</acceleration>
+        <topSpeed units="mph">130</topSpeed>
+    </performace>
+    <dimensions>
+        <length units="inches">210.0</length>
+        <width units="inches">79.9</width>
+        <height units="inches">76.6</height>
+        <wheelbase units="inches">117.5</wheelbase>
+    </dimensions>
+    <featurs>
+        <feature>Leather Seats</feature>
+        <feature>Navigation System</feature>
+        <feature>Bluetooth Connectivity</feature>
+        <feature>Backup Camera</feature>
+        <feature>Third Row Seating</feature>
+    </featurs>
+    <price currency="USD">25000</price>
+</car>
